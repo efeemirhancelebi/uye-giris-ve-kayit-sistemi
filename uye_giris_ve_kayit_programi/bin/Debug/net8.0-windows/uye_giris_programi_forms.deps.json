@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "uye_giris_programi_forms/1.0.0": {
+        "runtime": {
+          "uye_giris_programi_forms.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "uye_giris_programi_forms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

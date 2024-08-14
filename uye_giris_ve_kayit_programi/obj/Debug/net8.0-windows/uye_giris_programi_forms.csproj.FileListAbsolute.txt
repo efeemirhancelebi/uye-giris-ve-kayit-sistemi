@@ -1,0 +1,16 @@
+C:\Users\efeem\OneDrive\Desktop\Visual Studio 2022\practice_tests\bin\Debug\net8.0-windows\uye_giris_programi_forms.exe
+C:\Users\efeem\OneDrive\Desktop\Visual Studio 2022\practice_tests\bin\Debug\net8.0-windows\uye_giris_programi_forms.deps.json
+C:\Users\efeem\OneDrive\Desktop\Visual Studio 2022\practice_tests\bin\Debug\net8.0-windows\uye_giris_programi_forms.runtimeconfig.json
+C:\Users\efeem\OneDrive\Desktop\Visual Studio 2022\practice_tests\bin\Debug\net8.0-windows\uye_giris_programi_forms.dll
+C:\Users\efeem\OneDrive\Desktop\Visual Studio 2022\practice_tests\bin\Debug\net8.0-windows\uye_giris_programi_forms.pdb
+C:\Users\efeem\OneDrive\Desktop\Visual Studio 2022\practice_tests\obj\Debug\net8.0-windows\practice_tests.Form1.resources
+C:\Users\efeem\OneDrive\Desktop\Visual Studio 2022\practice_tests\obj\Debug\net8.0-windows\uye_giris_programi_forms.csproj.GenerateResource.cache
+C:\Users\efeem\OneDrive\Desktop\Visual Studio 2022\practice_tests\obj\Debug\net8.0-windows\uye_giris_programi_forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efeem\OneDrive\Desktop\Visual Studio 2022\practice_tests\obj\Debug\net8.0-windows\uye_giris_programi_forms.AssemblyInfoInputs.cache
+C:\Users\efeem\OneDrive\Desktop\Visual Studio 2022\practice_tests\obj\Debug\net8.0-windows\uye_giris_programi_forms.AssemblyInfo.cs
+C:\Users\efeem\OneDrive\Desktop\Visual Studio 2022\practice_tests\obj\Debug\net8.0-windows\uye_giris_programi_forms.csproj.CoreCompileInputs.cache
+C:\Users\efeem\OneDrive\Desktop\Visual Studio 2022\practice_tests\obj\Debug\net8.0-windows\uye_giris_programi_forms.dll
+C:\Users\efeem\OneDrive\Desktop\Visual Studio 2022\practice_tests\obj\Debug\net8.0-windows\refint\uye_giris_programi_forms.dll
+C:\Users\efeem\OneDrive\Desktop\Visual Studio 2022\practice_tests\obj\Debug\net8.0-windows\uye_giris_programi_forms.pdb
+C:\Users\efeem\OneDrive\Desktop\Visual Studio 2022\practice_tests\obj\Debug\net8.0-windows\uye_giris_programi_forms.genruntimeconfig.cache
+C:\Users\efeem\OneDrive\Desktop\Visual Studio 2022\practice_tests\obj\Debug\net8.0-windows\ref\uye_giris_programi_forms.dll

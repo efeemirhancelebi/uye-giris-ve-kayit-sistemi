@@ -1,0 +1,16 @@
+C:\Users\efeem\source\repos\practice_tests\bin\Debug\net8.0-windows\practice_tests.exe
+C:\Users\efeem\source\repos\practice_tests\bin\Debug\net8.0-windows\practice_tests.deps.json
+C:\Users\efeem\source\repos\practice_tests\bin\Debug\net8.0-windows\practice_tests.runtimeconfig.json
+C:\Users\efeem\source\repos\practice_tests\bin\Debug\net8.0-windows\practice_tests.dll
+C:\Users\efeem\source\repos\practice_tests\bin\Debug\net8.0-windows\practice_tests.pdb
+C:\Users\efeem\source\repos\practice_tests\obj\Debug\net8.0-windows\practice_tests.Form1.resources
+C:\Users\efeem\source\repos\practice_tests\obj\Debug\net8.0-windows\practice_tests.csproj.GenerateResource.cache
+C:\Users\efeem\source\repos\practice_tests\obj\Debug\net8.0-windows\practice_tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efeem\source\repos\practice_tests\obj\Debug\net8.0-windows\practice_tests.AssemblyInfoInputs.cache
+C:\Users\efeem\source\repos\practice_tests\obj\Debug\net8.0-windows\practice_tests.AssemblyInfo.cs
+C:\Users\efeem\source\repos\practice_tests\obj\Debug\net8.0-windows\practice_tests.csproj.CoreCompileInputs.cache
+C:\Users\efeem\source\repos\practice_tests\obj\Debug\net8.0-windows\practice_tests.dll
+C:\Users\efeem\source\repos\practice_tests\obj\Debug\net8.0-windows\refint\practice_tests.dll
+C:\Users\efeem\source\repos\practice_tests\obj\Debug\net8.0-windows\practice_tests.pdb
+C:\Users\efeem\source\repos\practice_tests\obj\Debug\net8.0-windows\practice_tests.genruntimeconfig.cache
+C:\Users\efeem\source\repos\practice_tests\obj\Debug\net8.0-windows\ref\practice_tests.dll
